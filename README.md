@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm Jay Kosle, a passionate Web and Games Developer from National Institute of Advanced Manufacturing (NIAMT), Ranchi. Here you'll find a glimpse of my journey through the world of Web and Indie Game Development, along with some cool projects I've been working on.
+I'm Jay Kosle, a passionate Web and Games Developer from National Institute of Advanced Manufacturing Technologies (NIAMT), Ranchi. Here you'll find a glimpse of my journey through the world of Web and Indie Game Development, along with some cool projects I've been working on.
 
 ## 🚀 Quick Overview
 
@@ -24,19 +24,9 @@ Here are some of the projects I'm proud of:
 
 **MORE PROJECTS COMING SOON.
 
-## 📫 Let's Connect
-
-Feel free to reach out to me through:
-
-- **My Game-Dev Website**: https://www.koslegames.com/ 
-- **LinkedIn**: https://www.linkedin.com/in/dhanyajay-kosle-b320a125a
-- **Instagram**: https://www.instagram.com/jaykosle99/?igshid=ZDc4ODBmNjlmNQ%3D%3D
-- **Twitter**: https://twitter.com/i/flow/login?redirect_after_login=%2Fjay_kosle
-
 ## 🌟 Fun Facts
 
-- I a mixture of cinephile🎥 and otaku (^_+).
-- My favorite emoji is 🚀.
+- I am mixture of cinephile🎥 and otaku (^_+).
 - I enjoy Reading Books 📚.
 
 ## 🙏 Thanks for visiting!
