@@ -39,7 +39,7 @@ Leading the full development of an AI-powered astrology platform, from Figma des
 - **Tech Stack**: Next.js, TypeScript, Claude AI, Google Maps API, AstrologyAPI
 - **Role**: Lead Developer - Design, Architecture & Integration
 
-### 🍽️ [Little Lemon Restaurant Booking](https://jaykosle.github.io/little-lemon-restaurant-project/)
+### 🍽️ [Little Lemon Restaurant Booking](https://little-lemon-restaurant-project.vercel.app/)
 Responsive table reservation platform built as part of Meta's Front-End Developer certification.
 - **Tech Stack**: React.js
 - **Focus**: Clean UI/UX and Accessibility
