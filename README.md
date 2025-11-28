@@ -1,34 +1,71 @@
-# 👋 Hello, World! 
+# 👋 Hello, I'm Dhanyajay Kumar Kosle!
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile! I'm a Computer Engineering student at the National Institute of Advanced Manufacturing Technology (NIAMT), Ranchi, passionate about building full-stack applications and crafting immersive 2D games.
 
-I'm Jay Kosle, a passionate Web and Games Developer from National Institute of Advanced Manufacturing Technologies (NIAMT), Ranchi. Here you'll find a glimpse of my journey through the world of Web and Indie Game Development, along with some cool projects I've been working on.
+## 🚀 About Me
 
-## 🚀 Quick Overview
-
-- 🔭 I’m currently working on Medium level Frontend projects.
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about anything related to 2d games and web.
+- 💼 Currently working as a **Software Developer Intern at Conqr.ai**, where I'm leading the development of Vedaview, an AI-powered astrology platform
+- 🎮 Published **Cyber Clash: The Robo War** on Google Play Store with 100+ downloads
+- 🌱 Constantly exploring new technologies in **Next.js, TypeScript, and AI integrations**
+- 🏆 5-star badge holder in C++ on HackerRank
+- 💬 Ask me about **MERN stack, Unity game development, UI/UX design, or anything tech!**
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: C, C++, JavaScript.
-- **Frameworks & Libraries**: Tailwind, Bootstrap, React.js.
-- **Tools & Software**: Unity 2d game engine, Figma, Photoshop.
+**Languages**  
+`JavaScript (ES6+)` `TypeScript` `C/C++` `C#` `Python` `SQL` `HTML/CSS`
 
-## 📂 Featured Projects
+**Frontend Development**  
+`React.js` `Next.js` `Tailwind CSS` `Bootstrap` `Figma`
 
-Here are some of the projects I'm proud of:
+**Backend & Databases**  
+`Node.js` `Express.js` `MongoDB` `PostgreSQL` `MySQL` `Prisma ORM` `NeonDB`
 
-1. **[little-lemon-restaurant-project](https://github.com/jaykosle/little-lemon-restaurant-project)** - This is a Restaurant's table booking site that I made while doing my front-end professional course from Facebook.
+**Game Development**  
+`Unity` `C#` `Photoshop` `Blender`
 
-**MORE PROJECTS COMING SOON.
+**Tools & Other**  
+`Git/GitHub` `Postman` `REST API` `Agile Methodologies`
 
-## 🌟 Fun Facts
+## 🎯 Featured Projects
 
-- I am mixture of cinephile🎥 and otaku (^_+).
-- I enjoy Reading Books 📚.
+### 🎮 [Cyber Clash: The Robo War](https://play.google.com/store/apps/details?id=com.koslegames.CyberClashTheRoboWar)
+A complete 2D action platformer for Android built with Unity and C#. Solo project handling everything from game design, level design, custom scripting, 2D art/animations, to monetization strategy.
+- **Tech Stack**: Unity, C#, Photoshop
+- **Achievement**: 100+ downloads on Google Play Store
 
-## 🙏 Thanks for visiting!
+### 🌟 [Vedaview – AI Astrology Platform](https://www.vedaview.in/) *(In Development)*
+Leading the full development of an AI-powered astrology platform, from Figma design to deployment.
+- **Tech Stack**: Next.js, TypeScript, Claude AI, Google Maps API, AstrologyAPI
+- **Role**: Lead Developer - Design, Architecture & Integration
 
-Thank you for stopping by my GitHub profile! Don't forget to check out my repositories and feel free to connect with me. Let's build something awesome together! 🌟
+### 🍽️ [Little Lemon Restaurant Booking](https://jaykosle.github.io/little-lemon-restaurant-project/)
+Responsive table reservation platform built as part of Meta's Front-End Developer certification.
+- **Tech Stack**: React.js
+- **Focus**: Clean UI/UX and Accessibility
+
+## 🏅 Certifications & Achievements
+
+- 🎓 **Meta Front-End Developer Specialization** (Coursera)
+- 💻 **C++ Certification** by Coding Ninjas
+- 📊 **SQL Intermediate Certification** (HackerRank)
+- ⭐ **5-Star Badge in C++** (HackerRank)
+
+## 💼 Experience Highlights
+
+- **Software Developer Intern** at Conqr.ai - Driving end-to-end product development and enhancing platform UI/UX
+- **Lead Developer** at IIIT Ranchi Hackathon - Built document management system with PHP & MySQL
+- **Front-end Developer** at Smart India Hackathon - Developed disaster management website
+- **Head Coordinator** at Code Forge - Led workshops and coding events at NIAMT's official coding community
+
+## 🌟 Beyond Code
+
+- 🎥 Cinephile and anime enthusiast
+- 📚 Avid reader
+- 🎨 Game design and UI/UX enthusiast
+- 🌐 Portfolio: [www.xeronstudios.com/jay-portfolio](http://www.xeronstudios.com/jay-portfolio)
+
+
+⭐️ **Fun Fact**: I built and published my first game entirely solo - from concept to Google Play Store!
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome! 🚀
